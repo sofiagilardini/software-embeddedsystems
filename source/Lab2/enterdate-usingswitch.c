@@ -1,3 +1,6 @@
+/* Making use of a switch statement (based on the month) to write a program to read in a month and day.
+Your program should then print out an appropriate error message ONLY when an invalid date is input. */
+
 #define JAN 1
 #define FEB 2
 #define MAR 3
